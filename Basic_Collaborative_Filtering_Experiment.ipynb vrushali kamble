@@ -21,6 +21,8 @@
         "\n",
         "**Aim:** To implement user-based and item-based collaborative filtering using cosine similarity and recommend top-N items to a user.\n",
         "\n",
+        "**Author: Dr. Priya B. Pandharbale**\n",
+        "\n",
         "**Libraries:** Pandas, NumPy and Scikit-learn\n",
         "\n",
         "Run the cells one by one."
